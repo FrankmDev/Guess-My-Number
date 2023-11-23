@@ -1,5 +1,5 @@
 <h1 align=center>Guess My Number</h1>
-![Guess My Number](https://github.com/FrankmDev/Guess-My-Number/blob/542a81aac8b4b5d258e3d7f242bfe2aa25844918/GuessNumber.png)
+![Guess My Number](https://github.com/FrankmDev/Guess-My-Number/blob/d26e203c5df2eaa492d5612555f8bd3ca8e6a342/GuessNumber.png)
 
 ## Descripción
 
