@@ -1,13 +1,13 @@
 "use strict";
 
-let secretNumber = Math.trunc(Math.random() * 20) + 1;
+const secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highscore = 0;
-const displayMessage = function (message) {
+const displayMessage = (message) => {
   document.querySelector(".message").textContent = message;
 };
 
-document.querySelector(".check").addEventListener("click", function () {
+document.querySelector(".check").addEventListener("click", () => {
   const guess = Number(document.querySelector(".guess").value);
 
   if (!guess) {
